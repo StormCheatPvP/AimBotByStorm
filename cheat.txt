@@ -1,0 +1,15 @@
+// ==UserScript==
+// @name         AimBot test
+// @version      0.2 public version
+// @description  new aimbot WEBGL for KoGaMa
+// @author       StormPVP
+// @match        https://kogama.com.br/page/webgl-frame/
+// @match        https://www.kogama.com/page/webgl-frame/
+// @match        https://friends.kogama.com/page/webgl-frame/
+// @require      https://raw.githubusercontent.com/StormCheatPvP/AimBotByStorm/main/script.js
+// @namespace none
+// ==/UserScript==
+
+
+window.alert ('AIMBOT INJECTED, MADE BY STORM, 
+IF IT DOESN'T WORK IT'S BECAUSE THE CHEAT IS ALPHA');
